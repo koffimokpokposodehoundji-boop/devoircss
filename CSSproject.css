@@ -52,11 +52,19 @@ text-align:center; font-size:24px;
  width: 300px;
   height: 1000px;
   padding: 50px}
-@media (max-width:768px){.rt{flex-direction:column;
-  align-content:center;}
+/* Pour les téléphones et tablettes */
+@media screen and (max-width: 768px) {
+  .rt {
+    display: flex; /* Assure-toi que flex est activé */
+    flex-direction: column !important;
+    align-items: center;
+    padding: 20px; /* On réduit le padding qui était à 50px */
+    height: auto;  /* TRÈS IMPORTANT : change le 1000px en auto pour mobile */
   }
+}
  
  
+
 
 
 
