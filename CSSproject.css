@@ -1,0 +1,56 @@
+nav{ right:0px; top:0px;
+position:absolute}
+li{display:inline; padding:1em}
+body{font-family: 'poppins', sans serif;
+font-weight:400; font-size:1.2em;
+overflow-x:hidden;width:100%;
+background-color:beige
+}
+.all{ background-image:url(tyt.jpg);
+background-size:cover;color:white;
+text-align:center; font-size:24px;
+ height:550px}
+ h1{ text-align:left;  font-weight:800;
+ font-size:1.2em}
+ .rt{color:white; background:#5b7fc9;
+ border-radius:9px; text-decoration:none;
+ font-size:0.80em; font-weight:800;
+ padding:10px 15px; margin-top:  5px;
+ }
+ .rt:hover{ color:yellow;}
+ .para{ left:400px; top:450px;
+ position:absolute; font-size:20px}
+ .vf, .gtf{ left: 400px; top:150px;
+ position:relative;font-size:20px;
+ color: Darkblue;
+ }
+ .zb{ right:780px; top:900px;
+ position:absolute;font-size:20px;
+ color: Darkblue}
+ .bg{left:600px; top:-3em;
+ position:relative;flex:1;
+ height:auto}
+ .vc{left:400px; top:100em;
+ position:absolute; }
+ a:hover{ color: green}
+ .gal{left:390px; top:105px;
+ position:absolute;}
+ .gat{left:800px; top:105px;
+ position:absolute; }
+ .set{left:800px; top:620px;
+ position:absolute;}
+ .fdc{right:850px; top:50em; position:absolute;
+ width: 300px;
+  height: 100px;
+  padding: 50px;
+  }
+  .para{left:350px; top:20em; position:absolute;
+ width: 300px;
+  height: 1000px;
+  padding: 50px}
+  .vc{left:350px; top:88em; position:absolute;
+ width: 300px;
+  height: 1000px;
+  padding: 50px}
+ 
+ 
