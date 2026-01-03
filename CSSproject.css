@@ -9,7 +9,7 @@ background-color:beige
 .all{ background-image:url(tyt.jpg);
 background-size:cover;color:white;
 text-align:center; font-size:24px;
- height:550px}
+ height:550px; background-repeat:no-repeat}
  h1{ text-align:left;  font-weight:800;
  font-size:1.2em}
  .rt{color:white; background:#5b7fc9;
@@ -54,3 +54,4 @@ text-align:center; font-size:24px;
   padding: 50px}
  
  
+
